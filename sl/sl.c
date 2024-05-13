@@ -1,11 +1,9 @@
 ﻿/*
 *============================================================
 *		This is prototype sl command for Windows.
-*		This code is Copyright Free.
-*
-*
-*		Made by YM in 2023
-*
+*      		Copyright 1993,1998,2014
+ *              Toyoda Masashi
+ *              (mtoyoda@acm.org)
 *		Original sl command source code is here --->[https://github.com/mtoyoda/sl]
 *		
 *		
